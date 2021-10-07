@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Poisedboy/posts/static/js/main.8afad55b.chunk.js",
-    "main.js.map": "/Poisedboy/posts/static/js/main.8afad55b.chunk.js.map",
-    "runtime-main.js": "/Poisedboy/posts/static/js/runtime-main.e4eb9779.js",
-    "runtime-main.js.map": "/Poisedboy/posts/static/js/runtime-main.e4eb9779.js.map",
-    "static/js/2.50f3e6ab.chunk.js": "/Poisedboy/posts/static/js/2.50f3e6ab.chunk.js",
-    "static/js/2.50f3e6ab.chunk.js.map": "/Poisedboy/posts/static/js/2.50f3e6ab.chunk.js.map",
-    "static/js/3.3e22003c.chunk.js": "/Poisedboy/posts/static/js/3.3e22003c.chunk.js",
-    "static/js/3.3e22003c.chunk.js.map": "/Poisedboy/posts/static/js/3.3e22003c.chunk.js.map",
-    "index.html": "/Poisedboy/posts/index.html",
-    "static/js/2.50f3e6ab.chunk.js.LICENSE.txt": "/Poisedboy/posts/static/js/2.50f3e6ab.chunk.js.LICENSE.txt"
+    "main.js": "/posts/static/js/main.8afad55b.chunk.js",
+    "main.js.map": "/posts/static/js/main.8afad55b.chunk.js.map",
+    "runtime-main.js": "/posts/static/js/runtime-main.1f632504.js",
+    "runtime-main.js.map": "/posts/static/js/runtime-main.1f632504.js.map",
+    "static/js/2.50f3e6ab.chunk.js": "/posts/static/js/2.50f3e6ab.chunk.js",
+    "static/js/2.50f3e6ab.chunk.js.map": "/posts/static/js/2.50f3e6ab.chunk.js.map",
+    "static/js/3.3e22003c.chunk.js": "/posts/static/js/3.3e22003c.chunk.js",
+    "static/js/3.3e22003c.chunk.js.map": "/posts/static/js/3.3e22003c.chunk.js.map",
+    "index.html": "/posts/index.html",
+    "static/js/2.50f3e6ab.chunk.js.LICENSE.txt": "/posts/static/js/2.50f3e6ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4eb9779.js",
+    "static/js/runtime-main.1f632504.js",
     "static/js/2.50f3e6ab.chunk.js",
     "static/js/main.8afad55b.chunk.js"
   ]
